@@ -1,6 +1,6 @@
 # **SSH**
 ## **SSH Key for access the git with username & password**<br>
-**1. Generate SSH Key `ssh-keygen`**
+**1. Generate SSH Key `ssh-keygen`**<br>
 ![Gambar Final Task - SSH](screenshot/gambar1.png)<br>
 
 **2. Login ke github**<br>
